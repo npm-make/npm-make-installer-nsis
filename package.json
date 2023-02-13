@@ -1,7 +1,7 @@
 {
   "name": "@npm-make/npm-make-installer-nsis",
   "version": "3.8.0",
-  "license": "MIT",
+  "license": "zlib/libpng",
   "os": [
     "win32"
   ],
