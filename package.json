@@ -1,0 +1,19 @@
+{
+  "name": "@npm-make/npm-make-installer-win32",
+  "version": "0.0.1",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^18.13.0"
+  },
+  "os": [
+    "win32"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npmjs.com/",
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/npm-make/npm-make-installer-win32.git"
+  }
+}
