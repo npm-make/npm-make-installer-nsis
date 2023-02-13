@@ -1,6 +1,6 @@
 {
   "name": "@npm-make/npm-make-installer-nsis",
-  "version": "3.8",
+  "version": "0.3.8",
   "license": "MIT",
   "os": [
     "win32"
