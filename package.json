@@ -1,10 +1,7 @@
 {
-  "name": "@npm-make/npm-make-installer-win32",
-  "version": "0.0.1",
+  "name": "@npm-make/npm-make-installer-nsis",
+  "version": "3.8",
   "license": "MIT",
-  "devDependencies": {
-    "@types/node": "^18.13.0"
-  },
   "os": [
     "win32"
   ],
